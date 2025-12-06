@@ -44,13 +44,6 @@ Tower defense game inspired by Plants vs Zombies
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YunZhuHuang327&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YunZhuHuang327&layout=compact&theme=radical)
-
-
----
-
 ## 📫 Contact Me
 - 📧 Email: [nn6144048@gs.ncku.edu.tw](mailto:nn6144048@gs.ncku.edu.tw)  
 
