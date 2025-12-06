@@ -11,7 +11,11 @@
 
 ##  Tech Stack
 **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/-C-555555?style=flat-square&logo=c&logoColor=white)
+
+
 **AI / ML:** ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+
 **Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  ![VSCode](https://img.shields.io/badge/-VSCode-0078D7?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ##  Key Projects
@@ -41,9 +45,9 @@ Tower defense game inspired by Plants vs Zombies
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yunzhuhuang327&show_icons=true&count_private=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YunZhuHuang327&show_icons=true&count_private=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yunzhuhuang327&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YunZhuHuang327&layout=compact&theme=radical)  
 
 ---
 
